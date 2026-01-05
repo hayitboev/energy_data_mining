@@ -1,0 +1,3 @@
+Model,RMSE,R2 Score,Optimizer,Özellik
+Model 3 (BN/SGD),161.61784008313444,0.5054567596510962,SGD,Batch Normalization
+Model 4 (ELU/RMSprop),90.12167925023263,0.8462255352315144,RMSprop,ELU Activation
